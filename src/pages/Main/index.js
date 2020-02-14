@@ -15,8 +15,8 @@ import {
   Avatar,
   Name,
   Bio,
-  ProfileButton,
   ProfileButtonText,
+  ProfileButton,
 } from './styles';
 
 export default class Main extends Component {
